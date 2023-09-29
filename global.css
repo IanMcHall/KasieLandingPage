@@ -11,11 +11,13 @@ body{
     background-color: purple;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    text-align: center;
 }
 
 img{
-    border-radius: 50px;
+    border-radius: 3.125em;
     padding-left: 1em;
     padding-top: 1em;
+    height: 31.25em; 
+    width: 18.75em;
 }
