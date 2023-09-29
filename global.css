@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+
+.left-side{
+    height: 100vh;
+    width: 21vw;
+    padding: 0;
+    border: 0;
+    margin: 0;
+    background-color: purple;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+img{
+    border-radius: 50px;
+    padding-left: 1em;
+    padding-top: 1em;
+}
